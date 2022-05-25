@@ -4,8 +4,8 @@
         <img  align="right" height="280" alt="Gif" src="https://th.bing.com/th/id/R.2377485861aa1162ba55c1823dbef8fe?rik=T6FxEDf%2bzPyvmQ&riu=http%3a%2f%2f25.media.tumblr.com%2ftumblr_lhmcq1YVTu1qz5szzo1_400.gif&ehk=E3h2ovg1zfn8M3h4KtXp6oxIJ8GeJePISVodcvTCOoU%3d&risl=&pid=ImgRaw"/>
 
   <a href="https://github.com/OinsaneX">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=alev-devX&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alev-devX&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=alev-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alev-dev&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   <div style="display: inline-block"><br>
