@@ -1,4 +1,4 @@
-### 👋 Olá! meu nome é Alejandro Vargas 
+### 👋 Hi! I'm Alejandro Vargas. Welcome to my Github Profile
 
  <div>
         <img  align="right" height="280" alt="Gif" src="https://th.bing.com/th/id/R.2377485861aa1162ba55c1823dbef8fe?rik=T6FxEDf%2bzPyvmQ&riu=http%3a%2f%2f25.media.tumblr.com%2ftumblr_lhmcq1YVTu1qz5szzo1_400.gif&ehk=E3h2ovg1zfn8M3h4KtXp6oxIJ8GeJePISVodcvTCOoU%3d&risl=&pid=ImgRaw"/>
